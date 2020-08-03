@@ -1,4 +1,4 @@
-# Language-Identification-System
+# Language-Identification-System using iNLTK library
 # Problem statement:
 Language Identification of Indian Languages of a given text document containing monolingual and multilingual texts . 
 
